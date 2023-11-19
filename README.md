@@ -1,1 +1,1 @@
-# mindtech-home-assigment
+# mindtech-home-assignment

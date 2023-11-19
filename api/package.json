@@ -1,0 +1,11 @@
+{
+  "name": "travel-planner-api",
+  "version": "1.0.0",
+  "description": "Mindtech Home Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Szabolcs Nógrádi",
+  "license": "ISC"
+}
